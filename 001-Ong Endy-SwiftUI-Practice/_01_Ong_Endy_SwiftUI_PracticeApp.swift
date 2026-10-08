@@ -11,7 +11,7 @@ import SwiftUI
 struct _01_Ong_Endy_SwiftUI_PracticeApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            RecipeHomeView() 
         }
     }
 }
